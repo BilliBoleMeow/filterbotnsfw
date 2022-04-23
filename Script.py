@@ -3,7 +3,7 @@ class script(object):
 My Name Is <a href=https://t.me/{}>{}</a>. i Provide HEVC Encoded NSFw Files."""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """I Am A Bot, Nothing Else.""
+    ABOUT_TXT = """I Am A Bot, Nothing Else."""
     SOURCE_TXT = """Github."""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
