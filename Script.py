@@ -29,7 +29,7 @@ My Name Is <a href=https://t.me/{}>{}</a>. i Provide HEVC Encoded NSFw Files."""
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/fileservingbotupdates)</code>
+<code>[Button Text](buttonurl:https://t.me/hevcfapfilesbotupdates)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
